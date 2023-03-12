@@ -4,7 +4,7 @@
   "description": "For fun: A way to automatically deploy to FTP and push Github",
   "main": "index.js",
   "scripts": {
-    "test": "console.log('Sugar , Spice and everything nice')"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
