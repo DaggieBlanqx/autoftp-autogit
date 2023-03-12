@@ -1,14 +1,14 @@
 {
   "name": "autoftp-autogit",
   "version": "1.0.0",
-  "description": "A way to automatically deploy to FTP and push Github",
+  "description": "For fun: A way to automatically deploy to FTP and push Github",
   "main": "index.js",
   "scripts": {
     "test": "console.log('Sugar , Spice and everything nice')"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/autoftp-autogit"
+    "url": "https://github.com/DaggieBlanqx/autoftp-autogit"
   },
   "keywords": [
     "Deploy",
@@ -21,6 +21,7 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "^2.4.2",
+    "config": "^3.3.9",
     "dotenv": "^6.2.0",
     "figlet": "^1.2.1",
     "ftp-client": "^0.2.2",
