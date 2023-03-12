@@ -1,6 +1,6 @@
 {
   "name": "autoftp-autogit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "For fun: A way to automatically deploy to FTP and push Github",
   "main": "index.js",
   "scripts": {
